@@ -1,0 +1,35 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": ["AthenaCharacter:cid_439_athena_commando_f_skullbriteeclipse"],
+        "price": 800
+    },
+    "daily2": {
+        "itemGrants": ["AthenaDance:cid_433_athena_commando_m_kissthecup"],
+        "price": 500
+    },
+    "daily3": {
+        "itemGrants": ["AthenaDance:cid_433_athena_commando_m_gohome"],
+        "price": 500
+    },
+    "daily4": {
+        "itemGrants": ["AthenaDance:cid_433_athena_commando_m_jumpjets"],
+        "price": 500
+    },
+    "daily5": {
+        "itemGrants": ["AthenaDance:cid_433_athena_commando_m_hotstuff"],
+        "price": 200
+    },
+    "daily6": {
+        "itemGrants": ["AthenaDance:cid_433_athena_commando_m_waterworks"],
+        "price": 200
+    },
+    "featured1": {
+        "itemGrants": ["AthenaCharacter:cid_433_athena_commando_m_johnwick"],
+        "price": 2000
+    },
+    "featured2": {
+        "itemGrants": ["AthenaCharacter:cid_433_athena_commando_m_pillar"],
+        "price": 1500
+    }
+}
